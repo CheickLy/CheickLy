@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently working on [BudgetMaxxing](https://github.com/mileshall1/BudgetMaxxing)
 
-- 👨‍💻 All of my projects are available at [https://cheickly.github.io/](https://cheickly.github.io/)
-
 - 🧠 AI & Automation – OpenAI API, ML-powered summaries, prompt engineering **OpenAI API, ML-powered summaries, prompt engineering**
-
+  
+- 👨‍💻 All of my projects are available at [https://cheickly.github.io/](https://cheickly.github.io/)
+  
 - 📫 How to reach me **lycheick027@gmail.com**
 
 - ⚡ Fun fact **My nickname is Shaq, I draw in my free-time!**

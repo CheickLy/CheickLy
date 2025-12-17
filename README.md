@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cheick Ly</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-- 🌱 I’m currently working on [BudgetMaxxing](https://github.com/mileshall1/BudgetMaxxing)
+- 🌱 I’m currently working on [BudgetMaxxing](https://github.com/mileshall1/BudgetMaxxing) and [WatchIT](https://github.com/CheickLy/WatchIT)
 
 - 🧠 AI & Automation – OpenAI API, ML-powered summaries, prompt engineering **OpenAI API, ML-powered summaries, prompt engineering**
   

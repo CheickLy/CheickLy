@@ -2,14 +2,10 @@
 <h3 align="center">An aspiring Software Engineer</h3>
 
 - 🌱 I’m currently working on [BudgetMaxxing](https://github.com/mileshall1/BudgetMaxxing) and [WatchIT](https://github.com/CheickLy/WatchIT)
-
-- 🧠 AI & Automation – OpenAI API, ML-powered summaries, prompt engineering **OpenAI API, ML-powered summaries, prompt engineering**
-  
-- 👨‍💻 All of my projects are available at [https://cheickly.github.io/](https://cheickly.github.io/)
   
 - 📫 How to reach me **lycheick027@gmail.com**
 
-- ⚡ Fun fact **My nickname is Shaq, I draw in my free-time!**
+- ⚡ Fun fact **My nickname is Shaq, I like anime and I draw in my free-time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
